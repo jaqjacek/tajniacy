@@ -1,0 +1,26 @@
+0.1 
+- generate random  X*Y table of word from som sort of database
+- display that grid
+- buttons that reset that grid
+0.2 
+- generate minimap of X*Y grid for other bart of theam that show game puzzle ( team words, independent words, killer )
+- minimap shows what color starts
+0.3 
+- proper graphics for words on main aray and in boss minimap
+0.4
+- clickable main array that change word/card state
+0.5
+-counters for how much what team have done
+0.6
+- options to switch which turn it is now and what state should be card after click
+- posibility to check what was car before state change
+0.7 
+- some logs of what was last clue
+- what was clicked when 
+- save that to some format 
+0.8
+-team name and team members  with how much ponts was won in how meny turns
+0.9
+-move all of this to server side
+- beta tests with others peaople
+- added new words from site
